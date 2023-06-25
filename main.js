@@ -1,0 +1,1 @@
+const task = new Task();
