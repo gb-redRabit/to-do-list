@@ -2,4 +2,4 @@
 
 ## Demo
 
-https://grzbejta.github.io/to-do-list/
+https://gb-redRabit.github.io/to-do-list/
